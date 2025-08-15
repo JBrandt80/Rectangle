@@ -22,7 +22,7 @@ class Rectangle:
                 print("* " + "  " * (self.width - 2) + "*")
 
 def main():
-    print("Welcome to the Rectangle Lab!")
+    print("Welcome to the Rectangle Calculator!")
     print()
     try:
         height = int(input("Enter the height of the rectangle: "))
